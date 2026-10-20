@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/AghaErfan/Esh-Translator/blob/main/b004243d-1fb1-46e3-a02d-0b84a5cd9e5f.png" width="220" alt="ESH Logo">
   <h1>ESH Translator</h1>
-  <p><strong>ترجمه سریع متون روی صفحه ·</strong></p>
+  <p><strong>ترجمه سریع متون روی صفحه </strong></p>
   <p>
     <a href="https://github.com/AghaErfan"><img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-AghaErfan-111827?style=for-the-badge&logo=github"></a>
     <a href="https://t.me/s04ial"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-s04ial-229ED9?style=for-the-badge&logo=telegram&logoColor=white"></a>
