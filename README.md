@@ -9,9 +9,9 @@
 </div>
 
 ---
- <img src="" width="220" alt="AboutSoftware">
-##
 
+##
+ <img src="https://github.com/AghaErfan/Esh-Translator/blob/main/ScreenShot.jpg" width="220" alt="AboutSoftware">
 **ESH Translator** 
 یک ابزار شناور برای ویندوز است که اجازه می‌دهد بخشی از صفحه، بازی یا برنامه را انتخاب کنید و تصویر آن را به فارسی ترجمه کنید؛ نتیجه به‌صورت پنجره‌ای شناور روی صفحه نمایش داده می‌شود.
 
