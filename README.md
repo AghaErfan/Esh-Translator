@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="docs/assets/esh-logo.png" width="220" alt="ESH Logo">
+  <img src="https://github.com/AghaErfan/Esh-Translator/blob/main/b004243d-1fb1-46e3-a02d-0b84a5cd9e5f.png" width="220" alt="ESH Logo">
   <h1>ESH Translator</h1>
   <p><strong>ترجمه سریع متون روی صفحه · Fast on-screen text translation</strong></p>
   <p>
