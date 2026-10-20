@@ -3,29 +3,42 @@
   <h1>ESH Translator
    <p><strong>ترجمه سریع متون روی صفحه </strong></p>
   </h1>
-  <p>
-  </a>
-  <a href="https://github.com/AghaErfan/Esh-Translator/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-2EA44F?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="MIT License">
-  </a>
-  <a href="https://www.python.org/downloads/release/python-3110/">
-    <img src="https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.11">
-  </a>
-  <a href="https://www.microsoft.com/windows">
-    <img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
-  </a>
-  <a href="https://github.com/AghaErfan/Esh-Translator">
-    <img src="https://img.shields.io/badge/Game-Overlay-FF4655?style=for-the-badge&logoColor=white" alt="Game Overlay">
-  </a>
-  <a href="https://github.com/AghaErfan/Esh-Translator">
-    <img src="https://img.shields.io/badge/Language-Persian-00A86B?style=for-the-badge" alt="Persian Translation">
-  </a>
-  <a href="https://t.me/s04ial">
-    <img src="https://img.shields.io/badge/Telegram-s04ial-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-</p>
-  </p>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/AghaErfan/Esh-Translator/blob/main/LICENSE">
+        <img src="https://img.shields.io/badge/License-MIT-2EA44F?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="MIT License">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.python.org/downloads/release/python-3110/">
+        <img src="https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.11">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.microsoft.com/windows">
+        <img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/AghaErfan/Esh-Translator">
+        <img src="https://img.shields.io/badge/Game-Overlay-FF4655?style=for-the-badge" alt="Game Overlay">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AghaErfan/Esh-Translator">
+        <img src="https://img.shields.io/badge/Language-Persian-00A86B?style=for-the-badge" alt="Persian Translation">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://t.me/s04ial">
+        <img src="https://img.shields.io/badge/Telegram-s04ial-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -120,4 +133,4 @@ The selected image is processed through Google Translate, so internet access is 
 - WebView2 documentation: [Microsoft Learn](https://learn.microsoft.com/microsoft-edge/webview2/)
 - PyInstaller documentation: [pyinstaller.org](https://pyinstaller.org/en/stable/)
 
-> No license is declared in this repository yet. Add a `LICENSE` file before presenting the source as open-source software.
+>> This project is licensed under the MIT License. See the [LICENSE](https://github.com/AghaErfan/Esh-Translator/blob/main/LICENSE) file for details.
