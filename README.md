@@ -106,8 +106,6 @@ Hotkeys can be changed from the settings page.
 The selected image is processed through Google Translate, so internet access is required. Do not select sensitive or private content. This project does not provide an offline local translation engine.
 
 ## Links
-
-- Developer: [GitHub — AghaErfan](https://github.com/AghaErfan)
 - Telegram: [t.me/s04ial](https://t.me/s04ial)
 - WebView2 documentation: [Microsoft Learn](https://learn.microsoft.com/microsoft-edge/webview2/)
 - PyInstaller documentation: [pyinstaller.org](https://pyinstaller.org/en/stable/)
