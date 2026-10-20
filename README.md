@@ -23,9 +23,9 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/AghaErfan/Esh-Translator">
-        <img src="https://img.shields.io/badge/Game-Overlay-FF4655?style=for-the-badge" alt="Game Translator Overlay">
-      </a>
+ <a href="https://github.com/AghaErfan/Esh-Translator">
+  <img src="https://img.shields.io/badge/Game-Translator%20Overlay-FF4655?style=for-the-badge" alt="Game Translator Overlay">
+</a>
     </td>
     <td align="center">
       <a href="https://github.com/AghaErfan/Esh-Translator">
