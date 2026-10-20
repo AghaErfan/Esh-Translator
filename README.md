@@ -36,17 +36,7 @@
 |---|---|---|
 | Microsoft Edge WebView2 Runtime | میزبانی صفحهٔ ترجمه در برنامه؛ نصب‌کننده آن را در صورت نیاز نصب می‌کند | [دانلود WebView2](https://developer.microsoft.com/en-us/microsoft-edge/webview2/) |
 | Python 3.11 x64 | فقط برای اجرای سورس یا ساخت نسخهٔ ویندوز | [Python 3.11.16](https://www.python.org/downloads/release/python-31116/) |
-| Inno Setup 6 | ساخت فایل Setup؛ اگر فقط EXE لازم است، اختیاری است | [دانلود Inno Setup](https://jrsoftware.org/isdl.php) |
 | کتابخانه‌های ساخت | wxPython، Pillow، dxcam و PyInstaller | فایل [`requirements-build.txt`](requirements-build.txt) |
-
-### ساخت EXE و نصب‌کننده
-
-1. روی **ویندوز ۶۴ بیتی**، Python 3.11 نسخهٔ x64 و در صورت نیاز Inno Setup 6 را نصب کنید.
-2. فایل فونت `1YASA_N_.TTF` را کنار `ESH_Translator.py` و `build_windows.bat` قرار دهید.
-3. `build_windows.bat` را اجرا کنید؛ اسکریپت محیط مجازی می‌سازد و وابستگی‌های ساخت را نصب می‌کند.
-4. خروجی مستقل در `dist/ESH_Translator.exe` ایجاد می‌شود. اگر Inno Setup موجود باشد، فایل نصب در `installer-output/ESH_Translator_Setup.exe` ساخته می‌شود.
-
-> **نکته:** ساخت برنامهٔ ویندوز باید روی خود ویندوز انجام شود؛ PyInstaller ابزار cross-compiler نیست. این مخزن هنوز ادعا نمی‌کند که خروجی روی همهٔ نسخه‌های ویندوز آزمایش شده باشد.
 
 ### میانبرهای پیش‌فرض
 
