@@ -82,14 +82,6 @@ When published, end-user builds will be available in [GitHub Releases](../../rel
 | Inno Setup 6 | Builds the Setup installer; optional for EXE-only output | [Download Inno Setup](https://jrsoftware.org/isdl.php) |
 | Build packages | wxPython, Pillow, dxcam, and PyInstaller | [`requirements-build.txt`](requirements-build.txt) |
 
-### Build on Windows
-
-1. Install 64-bit Windows Python 3.11 and optionally Inno Setup 6.
-2. Put `1YASA_N_.TTF` next to `ESH_Translator.py` and `build_windows.bat`.
-3. Run `build_windows.bat`; it creates a virtual environment and installs build dependencies.
-4. The one-file executable is written to `dist/ESH_Translator.exe`. If Inno Setup is installed, the setup package is written to `installer-output/ESH_Translator_Setup.exe`.
-
-Build Windows executables on Windows; PyInstaller is not a cross-compiler. Compatibility with every Windows version has not been verified.
 
 ### Default hotkeys
 
