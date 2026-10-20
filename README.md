@@ -1,7 +1,8 @@
 <div align="center">
   <img src="https://github.com/AghaErfan/Esh-Translator/blob/main/b004243d-1fb1-46e3-a02d-0b84a5cd9e5f.png" width="220" alt="ESH Logo">
-  <h1>ESH Translator</h1>
-  <p><strong>ترجمه سریع متون روی صفحه </strong></p>
+  <h1>ESH Translator
+   <p><strong>ترجمه سریع متون روی صفحه </strong></p>
+  </h1>
   <p>
         <a href="https://t.me/s04ial"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-s04ial-229ED9?style=for-the-badge&logo=telegram&logoColor=white"></a>
     <a href="https://developer.microsoft.com/en-us/microsoft-edge/webview2/"><img alt="WebView2" src="https://img.shields.io/badge/Runtime-WebView2-0EA5E9?style=for-the-badge"></a>
