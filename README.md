@@ -60,10 +60,7 @@
 ### حریم خصوصی
 
 برای ترجمه، تصویر ناحیهٔ انتخاب‌شده از طریق صفحهٔ Google Translate پردازش می‌شود؛ پس به اینترنت نیاز دارد. تصویرها یا متن‌های حساس و خصوصی را انتخاب نکنید. برنامه سرویس ترجمهٔ آفلاین محلی ارائه نمی‌کند.
-
-### صفحهٔ وب GitHub Pages
-
-وب‌سایت دو‌زبانهٔ پروژه در [`docs/`](docs/) قرار دارد. پس از push کردن مخزن به شاخهٔ `main`، workflow داخل `.github/workflows/pages.yml` آن را منتشر می‌کند. در GitHub از مسیر **Settings → Pages → Build and deployment → GitHub Actions** استفاده کنید.
+* استفاده کنید.
 
 ---
 
@@ -116,12 +113,6 @@ Hotkeys can be changed from the settings page.
 ### Privacy
 
 The selected image is processed through Google Translate, so internet access is required. Do not select sensitive or private content. This project does not provide an offline local translation engine.
-
-### GitHub Pages
-
-The bilingual project website is in [`docs/`](docs/). Push to `main` and configure **Settings → Pages → Build and deployment → GitHub Actions**. The included workflow publishes the `docs/` folder.
-
----
 
 ## Links
 
