@@ -12,7 +12,6 @@
 [![Latest Release](https://img.shields.io/github/v/release/AghaErfan/Esh-Translator?style=for-the-badge&label=Latest%20Release&color=6366f1)](https://github.com/AghaErfan/Esh-Translator/releases)
 [![Total Downloads](https://img.shields.io/github/downloads/AghaErfan/Esh-Translator/total?style=for-the-badge&label=Downloads&color=0ea5e9)](https://github.com/AghaErfan/Esh-Translator/releases)
 [![GitHub Stars](https://img.shields.io/github/stars/AghaErfan/Esh-Translator?style=for-the-badge&color=f59e0b)](https://github.com/AghaErfan/Esh-Translator/stargazers)
-[![Open Issues](https://img.shields.io/github/issues/AghaErfan/Esh-Translator?style=for-the-badge&color=22c55e)](https://github.com/AghaErfan/Esh-Translator/issues)
 
 [![Report an Issue](https://img.shields.io/badge/Report%20an%20Issue-Open%20Issue-dc2626?style=for-the-badge&logo=github)](https://github.com/AghaErfan/Esh-Translator/issues)
 [![Contact Developer](https://img.shields.io/badge/Contact%20Developer-Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/s04ial)
